@@ -1,0 +1,1 @@
+This folder contains all the relevant files for crash course python section of Python course
